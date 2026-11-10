@@ -1,0 +1,119 @@
+{
+  "checkedAt": "2026-11-10T02:53:20.099Z",
+  "origin": "http://localhost:3000",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Driving Lessons Derby | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/program/manual-lesson",
+      "status": 200,
+      "title": "Manual lessons in Derby | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "title": "Local roots. A fresh road ahead. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/areas-we-cover",
+      "status": 200,
+      "title": "Your local roads. Your new freedom. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/reviews",
+      "status": 200,
+      "title": "The learner perspective. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/book-lesson",
+      "status": 200,
+      "title": "Your next chapter starts here. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/program/automatic-lesson",
+      "status": 200,
+      "title": "Automatic lessons in Derby | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/program/crash-courses",
+      "status": 200,
+      "title": "Intensive courses in Derby | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/contact-us",
+      "status": 200,
+      "title": "Let’s talk about your journey. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/join-a1",
+      "status": 200,
+      "title": "Build your next chapter with us. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/offers",
+      "status": 200,
+      "title": "A plan that works for you. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/blog",
+      "status": 200,
+      "title": "A little guidance for the road. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/blog/choosing-your-driving-lessons",
+      "status": 200,
+      "title": "Your journey. Your gearbox. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/blog/making-the-most-of-your-first-lesson",
+      "status": 200,
+      "title": "A calmer first lesson starts here. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/blog/planning-an-intensive-course",
+      "status": 200,
+      "title": "Is an intensive course right for you? | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/become-a-driving-instructor",
+      "status": 200,
+      "title": "Turn your experience into direction. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/student-referral-for-instructors",
+      "status": 200,
+      "title": "Connect with local learners. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/privacy-policy",
+      "status": 200,
+      "title": "Your privacy matters. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/terms-and-conditions",
+      "status": 200,
+      "title": "Clear from the start. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/cookie-policy",
+      "status": 200,
+      "title": "A simpler cookie policy. | DERBY MANUAL &amp; AUTO"
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200
+    },
+    {
+      "path": "/opengraph-image",
+      "status": 200
+    }
+  ],
+  "notFoundStatus": 404
+}
